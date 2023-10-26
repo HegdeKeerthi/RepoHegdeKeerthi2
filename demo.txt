@@ -1,3 +1,4 @@
 #MY FIRST GITBASH TEXT
 
 Updating changes in this file and pushing it to GitHub.
+commiting to the branch
